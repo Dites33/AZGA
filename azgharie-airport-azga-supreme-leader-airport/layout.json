@@ -642,13 +642,13 @@
     },
     {
       "path": "scenery/azgharie/AZGA.bgl",
-      "size": 242767,
-      "date": 132855237434763308
+      "size": 242831,
+      "date": 132855303370141761
     },
     {
       "path": "scenery/azgharie/modelLib.BGL",
-      "size": 6225582,
-      "date": 132854189014850118
+      "size": 6240528,
+      "date": 132855300528061237
     },
     {
       "path": "scenery/azgharie/shape.bgl",
@@ -854,6 +854,16 @@
       "path": "scenery/azgharie/texture/MFD.PNG.DDS.json",
       "size": 102,
       "date": 132854181195307379
+    },
+    {
+      "path": "scenery/azgharie/texture/OBJLIB04_CUT.PNG.DDS",
+      "size": 1398248,
+      "date": 132855300525338072
+    },
+    {
+      "path": "scenery/azgharie/texture/OBJLIB04_CUT.PNG.DDS.json",
+      "size": 102,
+      "date": 132855300525308048
     },
     {
       "path": "scenery/azgharie/texture/OVERHEAD.PNG.DDS",
