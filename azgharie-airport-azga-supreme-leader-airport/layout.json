@@ -642,318 +642,328 @@
     },
     {
       "path": "scenery/azgharie/AZGA.bgl",
-      "size": 242831,
-      "date": 132855310453338198
+      "size": 244862,
+      "date": 132855615321317616
     },
     {
       "path": "scenery/azgharie/modelLib.BGL",
-      "size": 6240528,
-      "date": 132855300528061237
+      "size": 6368062,
+      "date": 132855604983279810
     },
     {
       "path": "scenery/azgharie/shape.bgl",
-      "size": 3015,
-      "date": 132855062475887751
+      "size": 3228,
+      "date": 132855615321397682
     },
     {
       "path": "scenery/azgharie/texture/AI.PNG.DDS",
       "size": 174904,
-      "date": 132854181197240920
+      "date": 132855541837781457
     },
     {
       "path": "scenery/azgharie/texture/AI.PNG.DDS.json",
       "size": 102,
-      "date": 132854181197240920
+      "date": 132855541837771451
     },
     {
       "path": "scenery/azgharie/texture/AI0.PNG.DDS",
       "size": 43832,
-      "date": 132854181197371600
+      "date": 132855541837921723
     },
     {
       "path": "scenery/azgharie/texture/AI0.PNG.DDS.json",
       "size": 102,
-      "date": 132854181197366353
+      "date": 132855541837911717
     },
     {
       "path": "scenery/azgharie/texture/ALT.PNG.DDS",
       "size": 174904,
-      "date": 132854181191027357
+      "date": 132855541831197117
     },
     {
       "path": "scenery/azgharie/texture/ALT.PNG.DDS.json",
       "size": 102,
-      "date": 132854181191016466
+      "date": 132855541831187111
     },
     {
       "path": "scenery/azgharie/texture/ASI.PNG.DDS",
       "size": 87528,
-      "date": 132854181192648393
+      "date": 132855541833022123
     },
     {
       "path": "scenery/azgharie/texture/ASI.PNG.DDS.json",
       "size": 102,
-      "date": 132854181192643108
+      "date": 132855541833012117
     },
     {
       "path": "scenery/azgharie/texture/ASI_TAPE.PNG.DDS",
       "size": 174984,
-      "date": 132854181197678796
+      "date": 132855541838237231
     },
     {
       "path": "scenery/azgharie/texture/ASI_TAPE.PNG.DDS.json",
       "size": 102,
-      "date": 132854181197673628
+      "date": 132855541838227220
     },
     {
       "path": "scenery/azgharie/texture/ATTITUDE_INDICATOR.PNG.DDS",
       "size": 699192,
-      "date": 132854181196355033
+      "date": 132855541836835528
     },
     {
       "path": "scenery/azgharie/texture/ATTITUDE_INDICATOR.PNG.DDS.json",
       "size": 102,
-      "date": 132854181196345018
+      "date": 132855541836825517
     },
     {
       "path": "scenery/azgharie/texture/INTERIOR.PNG.DDS",
       "size": 349672,
-      "date": 132854181190662781
+      "date": 132855541830821716
     },
     {
       "path": "scenery/azgharie/texture/INTERIOR.PNG.DDS.json",
       "size": 102,
-      "date": 132854181190657506
+      "date": 132855541830801689
     },
     {
       "path": "scenery/azgharie/texture/MAP.PNG.DDS",
       "size": 174904,
-      "date": 132854181190066567
+      "date": 132855541830195568
     },
     {
       "path": "scenery/azgharie/texture/MAP.PNG.DDS.json",
       "size": 102,
-      "date": 132854181190066567
+      "date": 132855541830185561
     },
     {
       "path": "scenery/azgharie/texture/MARBLE012_2K_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132854181188065532
+      "date": 132855541824772586
     },
     {
       "path": "scenery/azgharie/texture/MARBLE012_2K_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132854181188045515
+      "date": 132855541824752568
     },
     {
       "path": "scenery/azgharie/texture/MARBLE012_2K_NORMALDX.PNG.DDS",
       "size": 5592560,
-      "date": 132854181185231165
+      "date": 132855541821898573
     },
     {
       "path": "scenery/azgharie/texture/MARBLE012_2K_NORMALDX.PNG.DDS.json",
       "size": 160,
-      "date": 132854181185201141
+      "date": 132855541821863396
     },
     {
       "path": "scenery/azgharie/texture/MARBLE012_2K_ROUGHNESS.PNG.DDS",
       "size": 2796344,
-      "date": 132854181189228135
+      "date": 132855541826025015
     },
     {
       "path": "scenery/azgharie/texture/MARBLE012_2K_ROUGHNESS.PNG.DDS.json",
       "size": 166,
-      "date": 132854181189212366
+      "date": 132855541826004998
     },
     {
       "path": "scenery/azgharie/texture/METAL025_2K_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132854181178555963
+      "date": 132855541813862502
     },
     {
       "path": "scenery/azgharie/texture/METAL025_2K_COLOR.PNG.DDS.json",
       "size": 166,
-      "date": 132854181178540051
+      "date": 132855541813842483
+    },
+    {
+      "path": "scenery/azgharie/texture/METAL025_2K_DISPLACEMENT.PNG.DDS",
+      "size": 2796344,
+      "date": 132855604980028120
+    },
+    {
+      "path": "scenery/azgharie/texture/METAL025_2K_DISPLACEMENT.PNG.DDS.json",
+      "size": 102,
+      "date": 132855604980008102
     },
     {
       "path": "scenery/azgharie/texture/METAL025_2K_NORMALDX.PNG.DDS",
       "size": 5592560,
-      "date": 132854181182334011
+      "date": 132855604976044047
     },
     {
       "path": "scenery/azgharie/texture/METAL025_2K_NORMALDX.PNG.DDS.json",
       "size": 160,
-      "date": 132854181182297331
+      "date": 132855604976014018
     },
     {
       "path": "scenery/azgharie/texture/METAL025_2K_ROUGHNESS.PNG.DDS",
       "size": 2796344,
-      "date": 132854181183436883
+      "date": 132855604977105171
     },
     {
       "path": "scenery/azgharie/texture/METAL025_2K_ROUGHNESS.PNG.DDS.json",
       "size": 166,
-      "date": 132854181183426890
+      "date": 132855604977085153
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_COLOR.PNG.DDS",
       "size": 2796344,
-      "date": 132854181170949772
+      "date": 132855541805989173
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_COLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132854181170934059
+      "date": 132855541805969155
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_METALNESS.PNG.DDS",
       "size": 2796344,
-      "date": 132854181176943140
+      "date": 132855541812187662
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_METALNESS.PNG.DDS.json",
       "size": 102,
-      "date": 132854181176923118
+      "date": 132855541812167644
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_NORMALDX.PNG.DDS",
       "size": 5592560,
-      "date": 132854181173727781
+      "date": 132855541808921224
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_NORMALDX.PNG.DDS.json",
       "size": 160,
-      "date": 132854181173697752
+      "date": 132855541808891196
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_ROUGHNESS.PNG.DDS",
       "size": 2796344,
-      "date": 132854181172246887
+      "date": 132855541807342462
     },
     {
       "path": "scenery/azgharie/texture/METAL034_2K_ROUGHNESS.PNG.DDS.json",
       "size": 166,
-      "date": 132854181172226864
+      "date": 132855541807322444
     },
     {
       "path": "scenery/azgharie/texture/MFD-1.PNG.DDS",
       "size": 349704,
-      "date": 132854181196925548
+      "date": 132855541837446083
     },
     {
       "path": "scenery/azgharie/texture/MFD-1.PNG.DDS.json",
       "size": 102,
-      "date": 132854181196925548
+      "date": 132855541837436081
     },
     {
       "path": "scenery/azgharie/texture/MFD.PNG.DDS",
       "size": 349704,
-      "date": 132854181195317391
+      "date": 132855541835748298
     },
     {
       "path": "scenery/azgharie/texture/MFD.PNG.DDS.json",
       "size": 102,
-      "date": 132854181195307379
+      "date": 132855541835738287
     },
     {
       "path": "scenery/azgharie/texture/OBJLIB04_CUT.PNG.DDS",
       "size": 1398248,
-      "date": 132855300525338072
+      "date": 132855541816331516
     },
     {
       "path": "scenery/azgharie/texture/OBJLIB04_CUT.PNG.DDS.json",
       "size": 102,
-      "date": 132855300525308048
+      "date": 132855541816321505
     },
     {
       "path": "scenery/azgharie/texture/OVERHEAD.PNG.DDS",
       "size": 174904,
-      "date": 132854181191516646
+      "date": 132855541831828536
     },
     {
       "path": "scenery/azgharie/texture/OVERHEAD.PNG.DDS.json",
       "size": 102,
-      "date": 132854181191516646
+      "date": 132855541831818525
     },
     {
       "path": "scenery/azgharie/texture/PANEL.PNG.DDS",
       "size": 174904,
-      "date": 132854181194716848
+      "date": 132855541835146596
     },
     {
       "path": "scenery/azgharie/texture/PANEL.PNG.DDS.json",
       "size": 102,
-      "date": 132854181194716848
+      "date": 132855541835136589
     },
     {
       "path": "scenery/azgharie/texture/PANEL1.PNG.DDS",
       "size": 43832,
-      "date": 132854181192785087
+      "date": 132855541833162445
     },
     {
       "path": "scenery/azgharie/texture/PANEL1.PNG.DDS.json",
       "size": 102,
-      "date": 132854181192785087
+      "date": 132855541833152434
     },
     {
       "path": "scenery/azgharie/texture/PFD.PNG.DDS",
       "size": 349704,
-      "date": 132854181194396560
+      "date": 132855541834831091
     },
     {
       "path": "scenery/azgharie/texture/PFD.PNG.DDS.json",
       "size": 102,
-      "date": 132854181194386544
+      "date": 132855541834821080
     },
     {
       "path": "scenery/azgharie/texture/PITCHSCALE.PNG.DDS",
       "size": 1398256,
-      "date": 132854181192447464
+      "date": 132855541832781306
     },
     {
       "path": "scenery/azgharie/texture/PITCHSCALE.PNG.DDS.json",
       "size": 119,
-      "date": 132854181192436483
+      "date": 132855541832761284
     },
     {
       "path": "scenery/azgharie/texture/SEAT.PNG.DDS",
       "size": 87528,
-      "date": 132854181191236475
+      "date": 132855541831497864
     },
     {
       "path": "scenery/azgharie/texture/SEAT.PNG.DDS.json",
       "size": 102,
-      "date": 132854181191231299
+      "date": 132855541831497864
     },
     {
       "path": "scenery/azgharie/texture/TEXTURE.PNG.DDS",
       "size": 699192,
-      "date": 132854181198748086
+      "date": 132855541839328824
     },
     {
       "path": "scenery/azgharie/texture/TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132854181198738079
+      "date": 132855541839318817
     },
     {
       "path": "scenery/azgharie/texture/TEXURE TRACTOR.JPG.DDS",
       "size": 2796344,
-      "date": 132854181168286479
+      "date": 132855541803140642
     },
     {
       "path": "scenery/azgharie/texture/TEXURE TRACTOR.JPG.DDS.json",
       "size": 102,
-      "date": 132854181168276468
+      "date": 132855541803130630
     },
     {
       "path": "scenery/azgharie/texture/YOKE.PNG.DDS",
       "size": 699192,
-      "date": 132854181193816030
+      "date": 132855541834225321
     },
     {
       "path": "scenery/azgharie/texture/YOKE.PNG.DDS.json",
       "size": 102,
-      "date": 132854181193806019
+      "date": 132855541834215314
     }
   ]
 }
