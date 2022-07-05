@@ -1,0 +1,171 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Emblem",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "emissiveFactor" : [
+                0.06428571790456772,
+                0.06428571790456772,
+                0.06428571790456772
+            ],
+            "name" : "Emblem_M",
+            "normalTexture" : {
+                "index" : 0,
+                "texCoord" : 0
+            },
+            "occlusionTexture" : {
+                "index" : 1,
+                "texCoord" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 2,
+                    "texCoord" : 0
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 1,
+                    "texCoord" : 0
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Emblem",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        },
+        {
+            "source" : 1
+        },
+        {
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Metal025_2K_NormalDX",
+            "uri" : "Metal025_2K_NormalDX.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Metal025_2K_Roughness",
+            "uri" : "Metal025_2K_Roughness.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Metal034_2K_Color",
+            "uri" : "Metal034_2K_Color.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 8261,
+            "max" : [
+                4.994369983673096,
+                0,
+                3.8508310317993164
+            ],
+            "min" : [
+                -4.994369983673096,
+                -0.07357800006866455,
+                -3.890115976333618
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 8261,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 8261,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 33690,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 99132,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 99132,
+            "byteOffset" : 99132
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 66088,
+            "byteOffset" : 198264
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 67380,
+            "byteOffset" : 264352
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 331732,
+            "uri" : "elite.bin"
+        }
+    ]
+}

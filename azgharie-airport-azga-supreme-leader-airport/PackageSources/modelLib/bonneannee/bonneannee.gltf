@@ -1,0 +1,192 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Extended Khronos glTF Blender I/O v1.0.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention",
+        "ASOBO_material_day_night_switch"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Camera",
+            "rotation" : [
+                0.483536034822464,
+                0.33687159419059753,
+                -0.20870360732078552,
+                0.7804827094078064
+            ],
+            "translation" : [
+                7.358891487121582,
+                4.958309173583984,
+                6.925790786743164
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "Text"
+        }
+    ],
+    "materials" : [
+        {
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "emissiveTexture" : {
+                "index" : 0,
+                "texCoord" : 0
+            },
+            "extensions" : {
+                "ASOBO_material_day_night_switch" : {
+                    "enabled" : true
+                }
+            },
+            "name" : "Material.001",
+            "normalTexture" : {
+                "index" : 1,
+                "texCoord" : 0
+            },
+            "occlusionTexture" : {
+                "index" : 2,
+                "texCoord" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1
+                ],
+                "metallicRoughnessTexture" : {
+                    "index" : 2,
+                    "texCoord" : 0
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Text",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        },
+        {
+            "source" : 1
+        },
+        {
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Metal034_2K_Metalness",
+            "uri" : "Metal034_2K_Metalness.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Metal034_2K_NormalDX",
+            "uri" : "Metal034_2K_NormalDX.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Metal025_2K_Color",
+            "uri" : "Metal025_2K_Color.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 3092,
+            "max" : [
+                4.582499980926514,
+                0.05000000074505806,
+                0.009000000543892384
+            ],
+            "min" : [
+                -4.541500091552734,
+                -0.05000000074505806,
+                -0.6910000443458557
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 3092,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 3092,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 7716,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 37104,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 37104,
+            "byteOffset" : 37104
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24736,
+            "byteOffset" : 74208
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 15432,
+            "byteOffset" : 98944
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 114376,
+            "uri" : "bonneannee.bin"
+        }
+    ]
+}

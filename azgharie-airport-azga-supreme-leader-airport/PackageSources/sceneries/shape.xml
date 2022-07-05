@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<FlightSim>
+		<Geometry clipLevel="11"></Geometry>
+		<AttributeSet>
+			<AttributeBlock name="Version" guid="{CE85242F-4110-4706-8344-1F3A8EE422BE}">
+				<Field name="version" type="STRING" />
+			</AttributeBlock>
+			<AttributeBlock name="AirportBounds" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}">
+				<Field name="Uuid" type="GUID" />
+			</AttributeBlock>
+			<AttributeBlock name="Texture" guid="{1B6A15BB-05FB-4401-A8D1-BB520E84904C}">
+				<Field name="Guid" type="GUID" />
+			</AttributeBlock>
+			<AttributeBlock name="FalloffDistance" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}">
+				<Field name="falloff" type="FLOAT32" />
+			</AttributeBlock>
+			<AttributeBlock name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}">
+				<Field name="flatten" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="ExcludeDetectedBuildings" guid="{5C1A2387-1F07-47DF-A569-962CF6258E55}">
+				<Field name="DBuilding" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="ExcludeOSMBuildings" guid="{F3C2635D-9F2F-458F-8663-90B3837BED09}">
+				<Field name="OBuilding" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="ExcludeMSBuildings" guid="{F78A3074-8AD5-4B8B-92C4-C1C948BB7AA5}">
+				<Field name="MSBuilding" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}">
+				<Field name="vegetation" type="UINT32" />
+			</AttributeBlock>
+			<AttributeBlock name="LandClassRemap" guid="{0A685EB0-0E01-44FE-B9EF-BFFFBC968ADE}">
+				<Field name="LCRemap" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="ExcludeTIN" guid="{18B58CBF-AE02-4A19-8AA9-3809E8E73400}">
+				<Field name="ExcludeTIN" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}">
+				<Field name="VegDensity" type="UINT32" />
+			</AttributeBlock>
+			<AttributeBlock name="AirportSize" guid="{86A147E9-ACF2-4780-9D3C-416373ECB451}">
+				<Field name="AirprtSize" type="UINT8" />
+			</AttributeBlock>
+			<AttributeBlock name="TreeBrightnessFactor" guid="{63040596-0B21-48FD-8B5F-A9E84A5B7BC9}">
+				<Field name="Brightness" type="UINT32" />
+			</AttributeBlock>
+			<AttributeBlock name="ExclusionFlags" guid="{4CACC252-E6DC-419A-B20C-16EC601DF70E}">
+				<Field name="Exclusion" type="UINT32" />
+			</AttributeBlock>
+		</AttributeSet>
+	</FlightSim>
+</metadata>

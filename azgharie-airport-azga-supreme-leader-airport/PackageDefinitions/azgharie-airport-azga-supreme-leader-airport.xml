@@ -1,0 +1,47 @@
+<AssetPackage Name="azgharie-airport-azga-supreme-leader-airport" ReleaseNotes="PackageDefinitions\azgharie-airport-azga-supreme-leader-airport\ReleaseNotes.xml" Version="2.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Supreme Leader Airport</Title>
+		<Manufacturer/>
+		<Creator>Dites33</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\azgharie-airport-azga-supreme-leader-airport\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\azgharie-airport-azga-supreme-leader-airport\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="azga-materials">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\materials\</AssetDir>
+			<OutputDir>materialLibs\azga-materials\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modelLib\</AssetDir>
+			<OutputDir>scenery\azgharie\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="myscene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\sceneries\</AssetDir>
+			<OutputDir>scenery\azgharie\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

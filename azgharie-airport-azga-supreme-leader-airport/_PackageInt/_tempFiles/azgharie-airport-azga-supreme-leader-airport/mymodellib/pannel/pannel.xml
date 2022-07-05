@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{d363bb08-5686-4913-9669-ba788819a19c}" version="1.1">
+  <LODS>
+    <LOD minSize="5" ModelFile="pannel_LOD0.gltf"/>
+    <LOD minSize="0" ModelFile="pannel_LOD1.gltf"/>
+  </LODS>
+</ModelInfo>

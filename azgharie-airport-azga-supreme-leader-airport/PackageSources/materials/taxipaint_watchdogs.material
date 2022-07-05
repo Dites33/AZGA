@@ -1,0 +1,29 @@
+<Material Version="1.4.0" Name="taxipaint_watchdogs" Guid="{7BE2A38D-9EF3-4191-9857-19A21D19E63A}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+	<TagList/>
+	<FlagList/>
+	<TextureList>
+		<Texture FileName="Textures\watchdogs.png" Binding="MTL_BITMAP_DECAL0"/>
+	</TextureList>
+	<Attributes>
+		<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+		<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+		<UVOffset U="0.000000" V="0.000000"/>
+		<UVScale U="1.000000" V="1.000000"/>
+		<UVRotate>0.000000</UVRotate>
+		<ExtraParameters>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+			<Parameter Value="0.000000"/>
+		</ExtraParameters>
+	</Attributes>
+</Material>
+
